@@ -103,6 +103,3 @@ def montage(aya, start_verse, end_verse, source_video_path="videos/source_video/
 	all_objects = [source_video] + texts
 	final_video = CompositeVideoClip(all_objects)
 	final_video.write_videofile("videos/output_video/output.mp4")
-
-
-montage(18, 1, 1, muqri=muqris['Dussary'])
