@@ -1,5 +1,15 @@
 # About Quran-Video-Maker
 This tool is a Python script that allows users to create videos by adding recitations of specific Quranic verses to a source video. The tool merges the audio of various renowned Quran reciters, sourced from everyayah.com, with a specified source video, while also overlaying the text of each recited verse onto the video.
+
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=lva1DrH-Fx4">
+    <img src="https://img.youtube.com/vi/lva1DrH-Fx4/0.jpg" alt="Preview Video">
+  </a>
+</div>
+
+
+
 # Key Features
 
 - Verse Download: The tool fetches Quranic verses from everyayah.com, downloading the recitations of selected verses in MP3 format.
